@@ -2,6 +2,8 @@
   <Folder Name="/docs/">
     <File Path="docs/README.md" />
   </Folder>
-  <Folder Name="/src/" />
+  <Folder Name="/src/">
+    <Project Path="src/Inventory.Management.Api/Inventory.Management.Api.csproj" />
+  </Folder>
   <Folder Name="/tests/" />
 </Solution>
